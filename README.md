@@ -25,6 +25,6 @@ Does the length of stay impact the mental health of international students?
 
 ### Results/Finding
 
-In conclusion, the analysis reveals that the length of stay does not significantly contribute to these factors. The correlation coefficients between "stay" and "avg_phq" (depression) and "avg_scs" (social connectedness) are 0.27 and 0.14, respectively. These values indicate weak correlations, suggesting that the length of stay does not strongly influence feelings of belonging to the native social group or levels of depression.
+In conclusion, the analysis reveals that the length of stay does not significantly contribute to student's mental health. The correlation coefficients between "stay" and "avg_phq" (depression) and "avg_scs" (social connectedness) are 0.27 and 0.14, respectively. These values indicate weak correlations, suggesting that the length of stay does not strongly influence feelings of belonging to the native social group or levels of depression.
 
 Conversely, the correlation coefficient between "stay" and "avg_as" (acculturative stress) is -0.64, reflecting a strong negative relationship. This implies that as the length of stay increases, acculturative stress tends to decrease. In other words, international students generally experience less stress related to cultural adjustment as they become more acclimated to their new environment over time.
