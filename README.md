@@ -11,7 +11,7 @@ To investigate these findings, I utilized PostgreSQL to analyze the study's data
 
 ### Data Sources
 
-The primary dataset used for this analysis is the "Student's mental.csv" file.
+The primary dataset used for this analysis is the "Students.csv" file.
 
 ### Tools
 
