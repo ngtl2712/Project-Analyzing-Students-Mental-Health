@@ -15,7 +15,7 @@ The primary dataset used for this analysis is the "Students.csv" file.
 
 ### Tools
 
-SQL - Data Analysis
+SQL (SQLServer) - Data Analysis
 
 ### EDA
 
@@ -28,3 +28,7 @@ Does the length of stay impact the mental health of international students?
 In conclusion, the analysis reveals that the length of stay does not significantly contribute to student's mental health. Also, after calculated the correlation between length of stay and average diagnostic scores for international students the numbers show weakly correlated relationships between length of stay with depression and social connectedness, which means The length of stay does not strongly influence feelings of belonging to the native social group or levels of depression.
 
 Conversely, the correlation coefficient between length of stay and acculurative stress reflecting a strong negative relationship. This implies that as the length of stay increases, acculturative stress tends to decrease.  In other words, students who have not been away from home for an extended period might encounter culture shock and feelings of homesickness.
+
+### Notes
+
+In this project, I used SQL Server for analysis, but when calculating correlation I found that it does not support the CORR syntax, so I had to use the formula instead.
